@@ -9,10 +9,10 @@
 <img src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></a>
 
 
-<h3>2017.09~2019.07. Beijing jiaotong University Software Engineering (北京交通大学 软件工程 专业) </h3>
+<h3>2017.09 ~ 2019.07. Beijing jiaotong University Software Engineering (北京交通大学 软件工程 专业) </h3>
 <h3>2019.12 ~ 2020.03. Algorithm Jobs 4th </h3>  
-<h3>2020. Enliple: Web BackEnd Developer </h3>  
-<h3>2021~. KCTech: (CMP)Semiconductor Equipment Software Developer </h3>
+<h3>2020.09 ~ 2021.06. Enliple: Web BackEnd Developer </h3>  
+<h3>2021.06 ~ ing. KCTech: (CMP)Semiconductor Equipment Software Developer </h3>
 
 
 <h3> Blog : https://siwans.tistory.com/ </h2>
