@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white"/></a>
-<img src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></a>
+<img src ="https://img.shields.io/badge/Python-3776AB?&style=flat-square&logo=Python&logoColor=white"/></a>
 
 
 <h3>2017.09 ~ 2019.07. Beijing jiaotong University Software Engineering (北京交通大学 软件工程 专业) </h3>
