@@ -11,9 +11,9 @@
 
 <h3>2017.09.01 ~ 2019.07.11 Beijing jiaotong University Software Engineering (北京交通大学 软件工程 专业) </h3>
 <h3>2019.12.28 ~ 2020.03.25 Algorithm Jobs 4th </h3>  
-<h3>2020.09.01 ~ 2021.06.11 Enliple: Web BackEnd Developer </h3>  
+<h3>2020.09.01 ~ 2021.06.11 Enliple: Web Platform BackEnd Developer </h3>  
 <h3>2021.06.15 ~ 2021.07.31 KCTech: (CMP)Semiconductor Equipment Software Developer </h3>
-<h3>2022.08.01 ~ ing. Asiana IDT: BackEnd Developer </h3>
+<h3>2022.08.01 ~ ing. Asiana IDT: System BackEnd Developer </h3>
 
 
 <h3> Blog : https://siwans.tistory.com/ </h2>
