@@ -19,7 +19,7 @@
 <h3> Blog : https://siwans.tistory.com/ </h2>
 
 ![siwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siwan-min&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siwan-min&langs_count=3&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siwan-min&langs_count=6&layout=compact&theme=radical)  
   
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=siwan1993)  
 
